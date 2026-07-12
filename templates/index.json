@@ -1038,6 +1038,7 @@
         "led_text",
         "led_button"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -1155,7 +1156,7 @@
         "arrows_color_scheme": "inverse",
         "transparent_arrows": true,
         "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
+        "desktop_full_page": true,
         "columns_desktop": 5,
         "slider_desktop": false,
         "per_move_desktop": 1,
