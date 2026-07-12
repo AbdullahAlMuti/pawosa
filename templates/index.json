@@ -332,7 +332,7 @@
         "custom_colors_background": "#F4F4F4",
         "custom_gradient_background": "",
         "custom_colors_text": "#2e2a39",
-        "pattern_bg": "none",
+        "pattern_bg": "curvy",
         "pattern_color": "#fb5722",
         "pattern_size": 20,
         "pattern_thickness": 2,
