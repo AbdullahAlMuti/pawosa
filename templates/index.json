@@ -817,49 +817,141 @@
         "padding_bottom": 12
       }
     },
-    "tiktok_videos_WQcCyc": {
-      "type": "tiktok-videos",
+    "image_slider_NiBKgh": {
+      "type": "image-slider",
       "blocks": {
-        "column_tXhbCK": {
-          "type": "column",
+        "video_slide_tXmmnr": {
+          "type": "video_slide",
           "settings": {
-            "video_code": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@loloandkevin/video/7520093396401245454\" data-video-id=\"7520093396401245454\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@loloandkevin\" href=\"https://www.tiktok.com/@loloandkevin?refer=embed\">@loloandkevin</a> I am no longer afraid to cut my pet's nails: This is my destiny nail clipper. <a title=\"doghack\" target=\"_blank\" href=\"https://www.tiktok.com/tag/doghack?refer=embed\">#DogHack</a> <a title=\"dog\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dog?refer=embed\">#dog</a> <a title=\"grooming\" target=\"_blank\" href=\"https://www.tiktok.com/tag/grooming?refer=embed\">#grooming</a> <a title=\"petcare\" target=\"_blank\" href=\"https://www.tiktok.com/tag/petcare?refer=embed\">#petcare</a> <a title=\"catpick\" target=\"_blank\" href=\"https://www.tiktok.com/tag/catpick?refer=embed\">#catpick</a> <a title=\"tiktokshopfinds\" target=\"_blank\" href=\"https://www.tiktok.com/tag/tiktokshopfinds?refer=embed\">#tiktokshopfinds</a> <a title=\"dognails\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dognails?refer=embed\">#dognails</a> <a title=\"doglover\" target=\"_blank\" href=\"https://www.tiktok.com/tag/doglover?refer=embed\">#doglover</a> <a title=\"nailclippers\" target=\"_blank\" href=\"https://www.tiktok.com/tag/nailclippers?refer=embed\">#nailclippers</a> <a target=\"_blank\" title=\"♬ original sound - loloandkevin\" href=\"https://www.tiktok.com/music/original-sound-7520093532029143863?refer=embed\">♬ original sound - loloandkevin</a> </section> </blockquote> <script async=\"\" src=\"https://www.tiktok.com/embed.js\"></script>"
+            "video": "shopify://files/videos/shopify feeds 2.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "play_btn_position": "center",
+            "btn_color_scheme": "accent-1",
+            "play_btn_style": "solid",
+            "play_btn_size_desktop": 50,
+            "play_btn_size_mobile": 50,
+            "btn_animation": false,
+            "play_btn_corner_radius": 100,
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
           }
         },
-        "column_tgDPzw": {
-          "type": "column",
+        "video_slide_kgwDdK": {
+          "type": "video_slide",
           "settings": {
-            "video_code": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@loloandkevin/video/7520093396401245454\" data-video-id=\"7520093396401245454\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@loloandkevin\" href=\"https://www.tiktok.com/@loloandkevin?refer=embed\">@loloandkevin</a> I am no longer afraid to cut my pet's nails: This is my destiny nail clipper. <a title=\"doghack\" target=\"_blank\" href=\"https://www.tiktok.com/tag/doghack?refer=embed\">#DogHack</a> <a title=\"dog\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dog?refer=embed\">#dog</a> <a title=\"grooming\" target=\"_blank\" href=\"https://www.tiktok.com/tag/grooming?refer=embed\">#grooming</a> <a title=\"petcare\" target=\"_blank\" href=\"https://www.tiktok.com/tag/petcare?refer=embed\">#petcare</a> <a title=\"catpick\" target=\"_blank\" href=\"https://www.tiktok.com/tag/catpick?refer=embed\">#catpick</a> <a title=\"tiktokshopfinds\" target=\"_blank\" href=\"https://www.tiktok.com/tag/tiktokshopfinds?refer=embed\">#tiktokshopfinds</a> <a title=\"dognails\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dognails?refer=embed\">#dognails</a> <a title=\"doglover\" target=\"_blank\" href=\"https://www.tiktok.com/tag/doglover?refer=embed\">#doglover</a> <a title=\"nailclippers\" target=\"_blank\" href=\"https://www.tiktok.com/tag/nailclippers?refer=embed\">#nailclippers</a> <a target=\"_blank\" title=\"♬ original sound - loloandkevin\" href=\"https://www.tiktok.com/music/original-sound-7520093532029143863?refer=embed\">♬ original sound - loloandkevin</a> </section> </blockquote> <script async=\"\" src=\"https://www.tiktok.com/embed.js\"></script>"
+            "video": "shopify://files/videos/shopify feed.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "play_btn_position": "center",
+            "btn_color_scheme": "accent-1",
+            "play_btn_style": "solid",
+            "play_btn_size_desktop": 50,
+            "play_btn_size_mobile": 50,
+            "btn_animation": false,
+            "play_btn_corner_radius": 100,
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
           }
         },
-        "column_3wrAbj": {
-          "type": "column",
+        "video_slide_CmK6DJ": {
+          "type": "video_slide",
           "settings": {
-            "video_code": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@loloandkevin/video/7520093396401245454\" data-video-id=\"7520093396401245454\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@loloandkevin\" href=\"https://www.tiktok.com/@loloandkevin?refer=embed\">@loloandkevin</a> I am no longer afraid to cut my pet's nails: This is my destiny nail clipper. <a title=\"doghack\" target=\"_blank\" href=\"https://www.tiktok.com/tag/doghack?refer=embed\">#DogHack</a> <a title=\"dog\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dog?refer=embed\">#dog</a> <a title=\"grooming\" target=\"_blank\" href=\"https://www.tiktok.com/tag/grooming?refer=embed\">#grooming</a> <a title=\"petcare\" target=\"_blank\" href=\"https://www.tiktok.com/tag/petcare?refer=embed\">#petcare</a> <a title=\"catpick\" target=\"_blank\" href=\"https://www.tiktok.com/tag/catpick?refer=embed\">#catpick</a> <a title=\"tiktokshopfinds\" target=\"_blank\" href=\"https://www.tiktok.com/tag/tiktokshopfinds?refer=embed\">#tiktokshopfinds</a> <a title=\"dognails\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dognails?refer=embed\">#dognails</a> <a title=\"doglover\" target=\"_blank\" href=\"https://www.tiktok.com/tag/doglover?refer=embed\">#doglover</a> <a title=\"nailclippers\" target=\"_blank\" href=\"https://www.tiktok.com/tag/nailclippers?refer=embed\">#nailclippers</a> <a target=\"_blank\" title=\"♬ original sound - loloandkevin\" href=\"https://www.tiktok.com/music/original-sound-7520093532029143863?refer=embed\">♬ original sound - loloandkevin</a> </section> </blockquote> <script async=\"\" src=\"https://www.tiktok.com/embed.js\"></script>"
+            "video": "shopify://files/videos/C Ad 1 - Copy.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "play_btn_position": "center",
+            "btn_color_scheme": "accent-1",
+            "play_btn_style": "solid",
+            "play_btn_size_desktop": 50,
+            "play_btn_size_mobile": 50,
+            "btn_animation": false,
+            "play_btn_corner_radius": 100,
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
           }
         },
-        "column_wWH8Hk": {
-          "type": "column",
+        "video_slide_jywAR4": {
+          "type": "video_slide",
           "settings": {
-            "video_code": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@loloandkevin/video/7520093396401245454\" data-video-id=\"7520093396401245454\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@loloandkevin\" href=\"https://www.tiktok.com/@loloandkevin?refer=embed\">@loloandkevin</a> I am no longer afraid to cut my pet's nails: This is my destiny nail clipper. <a title=\"doghack\" target=\"_blank\" href=\"https://www.tiktok.com/tag/doghack?refer=embed\">#DogHack</a> <a title=\"dog\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dog?refer=embed\">#dog</a> <a title=\"grooming\" target=\"_blank\" href=\"https://www.tiktok.com/tag/grooming?refer=embed\">#grooming</a> <a title=\"petcare\" target=\"_blank\" href=\"https://www.tiktok.com/tag/petcare?refer=embed\">#petcare</a> <a title=\"catpick\" target=\"_blank\" href=\"https://www.tiktok.com/tag/catpick?refer=embed\">#catpick</a> <a title=\"tiktokshopfinds\" target=\"_blank\" href=\"https://www.tiktok.com/tag/tiktokshopfinds?refer=embed\">#tiktokshopfinds</a> <a title=\"dognails\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dognails?refer=embed\">#dognails</a> <a title=\"doglover\" target=\"_blank\" href=\"https://www.tiktok.com/tag/doglover?refer=embed\">#doglover</a> <a title=\"nailclippers\" target=\"_blank\" href=\"https://www.tiktok.com/tag/nailclippers?refer=embed\">#nailclippers</a> <a target=\"_blank\" title=\"♬ original sound - loloandkevin\" href=\"https://www.tiktok.com/music/original-sound-7520093532029143863?refer=embed\">♬ original sound - loloandkevin</a> </section> </blockquote> <script async=\"\" src=\"https://www.tiktok.com/embed.js\"></script>"
+            "video": "shopify://files/videos/Converted Highlight Video - Copy.mov",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "play_btn_position": "center",
+            "btn_color_scheme": "accent-1",
+            "play_btn_style": "solid",
+            "play_btn_size_desktop": 50,
+            "play_btn_size_mobile": 50,
+            "btn_animation": false,
+            "play_btn_corner_radius": 100,
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_pkFYLz": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/review video (2).mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "play_btn_position": "center",
+            "btn_color_scheme": "accent-1",
+            "play_btn_style": "solid",
+            "play_btn_size_desktop": 50,
+            "play_btn_size_mobile": 50,
+            "btn_animation": false,
+            "play_btn_corner_radius": 100,
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
           }
         }
       },
       "block_order": [
-        "column_tXhbCK",
-        "column_tgDPzw",
-        "column_3wrAbj",
-        "column_wWH8Hk"
+        "video_slide_tXmmnr",
+        "video_slide_kgwDdK",
+        "video_slide_CmK6DJ",
+        "video_slide_jywAR4",
+        "video_slide_pkFYLz"
       ],
-      "name": "TikTok videos",
+      "name": "Image/Video Slider",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Most Demanding <strong>Video</strong>",
+        "title": "Image/Video slider",
         "title_highlight_1": "solid-color",
         "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
         "title_highlight_1_bg-color": "#F9EFFF",
-        "title_highlight_1_color": "#FB5722",
+        "title_highlight_1_color": "#6D388B",
         "highlighted-1_border_radius": 8,
         "highlighted-1_border_width": 0,
         "highlighted-1_border": "solid",
@@ -893,11 +985,10 @@
         "heading_size": "h1",
         "custom_desktop_size": 39,
         "custom_mobile_size": 28,
-        "text": "",
         "color_scheme": "background-1",
-        "custom_colors_background": "#F3F3F3",
+        "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#121212",
         "pattern_bg": "none",
         "pattern_color": "#6D388B",
         "pattern_size": 20,
@@ -907,28 +998,35 @@
         "pattern_opacity_low": 7,
         "pattern_opacity_normal": 80,
         "type": "slide",
+        "drag": "enabled",
         "autoplay": false,
         "autoplay_speed": 5,
+        "center_mode": false,
         "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
+        "transparent_arrows": false,
         "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "columns_desktop": 5,
-        "slider_desktop": true,
+        "desktop_page_width": "normal",
+        "desktop_border_radius": 0,
+        "slides_desktop": 5,
         "per_move_desktop": 1,
-        "desktop_spacing": 24,
+        "desktop_spacing": 28,
         "desktop_side_padding": 0,
         "desktop_padding_calc": true,
         "desktop_adaptive_height": false,
         "desktop_dots_position": "under",
         "desktop_arrows_position": "sides",
-        "slider_mobile": true,
-        "enable_mobile_preview": false,
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
         "mobile_adaptive_height": false,
         "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
-        "padding_top": 12,
-        "padding_bottom": 12
+        "mobile_arrows_position": "sides",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "faq": {
@@ -1153,7 +1251,7 @@
     "featured_collection_HGLRyN",
     "best_sellers",
     "shop_categories",
-    "tiktok_videos_WQcCyc",
+    "image_slider_NiBKgh",
     "faq",
     "section_divider_6Frw9V",
     "newsletter_band"
