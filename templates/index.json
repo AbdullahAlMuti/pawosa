@@ -1119,6 +1119,7 @@
         "nl_heading",
         "nl_form"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
