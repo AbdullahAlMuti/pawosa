@@ -1238,7 +1238,7 @@
         "pattern_opacity_low": 7,
         "pattern_opacity_normal": 80,
         "collection": "frontpage",
-        "products_to_show": 10,
+        "products_to_show": 5,
         "stretch_cards": true,
         "show_view_all": false,
         "view_all_style": "solid",
