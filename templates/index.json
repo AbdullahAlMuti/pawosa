@@ -1083,6 +1083,22 @@
         "padding_bottom": 36
       }
     },
+    "section_divider_6Frw9V": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "inverse",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#FFFFFF",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "newsletter_band": {
       "type": "newsletter",
       "blocks": {
@@ -1138,6 +1154,7 @@
     "shop_categories",
     "tiktok_videos_WQcCyc",
     "faq",
+    "section_divider_6Frw9V",
     "newsletter_band"
   ]
 }
