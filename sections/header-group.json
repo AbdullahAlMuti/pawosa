@@ -197,7 +197,7 @@
         "menu": "main-menu",
         "menu_position": "left",
         "menu_type_desktop": "dropdown",
-        "highlight_active_link": true,
+        "highlight_active_link": false,
         "highlighted_link_color_scheme": "accent-1",
         "desktop_menu_font_size": 13,
         "desktop_menu_font": "body",
