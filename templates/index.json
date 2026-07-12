@@ -595,8 +595,8 @@
           "type": "video_slide",
           "settings": {
             "video": "shopify://files/videos/review video (2).mp4",
-            "loop": true,
-            "muted_autoplay": true,
+            "loop": false,
+            "muted_autoplay": false,
             "display_play_btn": true,
             "play_btn_position": "center",
             "btn_color_scheme": "accent-1",
