@@ -223,7 +223,7 @@
       "promo-popup": {
         "type": "promo-popup",
         "settings": {
-          "mode": "disabled",
+          "mode": "success_testing",
           "popup_seconds": 5,
           "popup_days": 30,
           "display_timer": true,
