@@ -34,7 +34,7 @@
             "font_size": 14,
             "menu_items_font": "body",
             "width_desktop": 3,
-            "width_mobile": "2"
+            "width_mobile": "1"
           }
         },
         "link_list_GDdmEh": {
@@ -91,7 +91,7 @@
         "enable_language_selector": true,
         "payment_enable": true,
         "enabled_payment_types": "",
-        "show_policy": false,
+        "show_policy": true,
         "branding_text": "",
         "top_page_width": "normal",
         "bottom_page_width": "normal",
