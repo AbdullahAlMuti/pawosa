@@ -334,9 +334,9 @@
         "stack_images_on_mobile": true,
         "show_text_below": false,
         "transparent_header": true,
-        "transparent_header_text_color": "text",
+        "transparent_header_text_color": "background-1",
         "transparent_header_highlighted_link_color": "background-1",
-        "transparent_header_hover_link_color": "accent-1",
+        "transparent_header_hover_link_color": "background-2",
         "transparent_header_logo": "main",
         "hide_announcement_bars": false
       }
