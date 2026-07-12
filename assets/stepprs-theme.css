@@ -1,0 +1,35 @@
+/* ==========================================================================
+   Stepprs design-system layer
+   --------------------------------------------------------------------------
+   Everything expressible through theme settings lives in
+   config/settings_data.json. This file carries only what the settings
+   schema cannot express — per DESIGN.md (repo root), the extracted
+   design-system spec this restyle follows.
+   ========================================================================== */
+
+/* Animated CTA glow — DESIGN.md "Elevation & Depth".
+   Source-verbatim: box-shadow pulses 3px -> 15px of #ff5b004d
+   (brand orange at 30% alpha) on a 1.5s loop; the glowing element
+   pairs the halo with a 2px solid black border and black label.
+   Apply .glowing to exactly ONE primary CTA per view. */
+@keyframes glowing {
+  0% {
+    box-shadow: 0 0 3px #ff5b004d;
+    color: #000;
+    border: 2px solid #000;
+  }
+  50% {
+    box-shadow: 0 0 15px #ff5b004d;
+    color: #000;
+    border: 2px solid #000;
+  }
+  100% {
+    box-shadow: 0 0 3px #ff5b004d;
+    color: #000;
+    border: 2px solid #000;
+  }
+}
+
+.glowing {
+  animation: glowing 1.5s infinite;
+}
