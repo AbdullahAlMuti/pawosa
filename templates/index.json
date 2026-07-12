@@ -322,7 +322,7 @@
         "image_1_visibility": "always-display",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 30,
-        "image_height": "adapt",
+        "image_height": "large",
         "url": "",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
