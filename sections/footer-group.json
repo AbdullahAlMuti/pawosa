@@ -100,7 +100,7 @@
           "settings": {
             "heading": "",
             "block_headings_font_size": 1,
-            "subtext": "<p><strong>Our mission</strong> is to make everyday pet care simple, safe and joyful — for every dog, cat and the people who love them.</p><p><strong>Business Address</strong><br/>Pawosa<br/>254 Chapman Rd, Newark,<br/>Delaware 19702, United States</p><p><strong>Contact:</strong> <a href=\"mailto:contact@pawosa.com\">contact@pawosa.com</a><br/>Mon–Fri, 9:00 AM–6:00 PM (EST)</p>",
+            "subtext": "<p><strong>Our mission</strong> is to make everyday pet care simple, safe and joyful.</p><p><strong>Business Address</strong><br/>254 Chapman Rd, Newark,<br/>Delaware 19702</p><p><strong>Contact:</strong> <a href=\"mailto:contact@pawosa.com\">contact@pawosa.com</a></p>",
             "width_desktop": 3,
             "width_mobile": "2"
           }
