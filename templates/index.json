@@ -220,7 +220,7 @@
         "hero_text": {
           "type": "text",
           "settings": {
-            "visibility": "always-display",
+            "visibility": "mobile-hidden",
             "text": "<p>The LED nail clipper that makes grooming calm, precise and injury-free — for dogs and cats. 97% of pet parents say grooming became safer.</p>",
             "alignment": "left",
             "mobile_alignment": "mobile-center",
