@@ -776,7 +776,7 @@
         "pattern_opacity_mode": "low",
         "pattern_opacity_low": 7,
         "pattern_opacity_normal": 80,
-        "collection": "frontpage",
+        "collection": "new-arrival",
         "products_to_show": 5,
         "stretch_cards": true,
         "show_view_all": false,
