@@ -244,7 +244,7 @@
       "settings": {
         "visibility": "always-display",
         "shape": "waves_3",
-        "flip_horizontal": false,
+        "flip_horizontal": true,
         "flip_vertical": false,
         "shape_color": "background-2",
         "custom_shape_color": "#121212",
