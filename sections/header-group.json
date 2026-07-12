@@ -174,11 +174,10 @@
           "block_order": []
         }
       },
-      "disabled": true,
       "settings": {
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "icons_thickness": 1,
         "icons_opacity": 100,
         "text_icons_size": 16,
