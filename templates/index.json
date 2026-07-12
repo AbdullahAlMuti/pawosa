@@ -705,20 +705,12 @@
             "collection": "pet-accessories",
             "custom_title": "Pet Accessories"
           }
-        },
-        "cat_groom": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "grooming-and-care",
-            "custom_title": "Grooming & Care"
-          }
         }
       },
       "block_order": [
         "cat_dog",
         "cat_cat",
-        "cat_acc",
-        "cat_groom"
+        "cat_acc"
       ],
       "settings": {
         "display_id": false,
@@ -816,6 +808,120 @@
         "mobile_full_page": false,
         "columns_mobile_int": 3,
         "mobile_spacing": 15,
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "tiktok_videos_WQcCyc": {
+      "type": "tiktok-videos",
+      "blocks": {
+        "column_tXhbCK": {
+          "type": "column",
+          "settings": {
+            "video_code": ""
+          }
+        },
+        "column_tgDPzw": {
+          "type": "column",
+          "settings": {
+            "video_code": ""
+          }
+        },
+        "column_3wrAbj": {
+          "type": "column",
+          "settings": {
+            "video_code": ""
+          }
+        },
+        "column_wWH8Hk": {
+          "type": "column",
+          "settings": {
+            "video_code": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tXhbCK",
+        "column_tgDPzw",
+        "column_3wrAbj",
+        "column_wWH8Hk"
+      ],
+      "name": "TikTok videos",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Most Demanding <strong>Video</strong>",
+        "title_highlight_1": "solid-color",
+        "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
+        "title_highlight_1_bg-color": "#F9EFFF",
+        "title_highlight_1_color": "#FB5722",
+        "highlighted-1_border_radius": 8,
+        "highlighted-1_border_width": 0,
+        "highlighted-1_border": "solid",
+        "highlighted-1_border_color": "#6D388B",
+        "highlighted-1_padding-block": 0.3,
+        "highlighted-1_padding-inline": 0.3,
+        "title_highlight_1_underline-thickness": 2,
+        "title_highlight_1_underline-color": "#6D388B",
+        "title_highlight_1_underline-color--gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
+        "title_highlight_1_underline-color-position": 25,
+        "title_highlight_1_handwritten-color": "#6D388B",
+        "title_highlight_1_handwritten-stroke-width": 3,
+        "title_highlight_1_handwritten-position": 60,
+        "title_highlight_2": "none",
+        "title_highlight_2_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
+        "title_highlight_2_bg-color": "#F9EFFF",
+        "title_highlight_2_color": "#6D388B",
+        "highlighted-2_border_radius": 8,
+        "highlighted-2_border_width": 0,
+        "highlighted-2_border": "solid",
+        "highlighted-2_border_color": "#6D388B",
+        "highlighted-2_padding-block": 0.3,
+        "highlighted-2_padding-inline": 0.3,
+        "title_highlight_2_underline-thickness": 2,
+        "title_highlight_2_underline-color": "#6D388B",
+        "title_highlight_2_underline-color--gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
+        "title_highlight_2_underline-color-position": 25,
+        "title_highlight_2_handwritten-color": "#6D388B",
+        "title_highlight_2_handwritten-stroke-width": 3,
+        "title_highlight_2_handwritten-position": 60,
+        "heading_size": "h1",
+        "custom_desktop_size": 39,
+        "custom_mobile_size": 28,
+        "text": "",
+        "color_scheme": "background-1",
+        "custom_colors_background": "#F3F3F3",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "pattern_bg": "none",
+        "pattern_color": "#6D388B",
+        "pattern_size": 20,
+        "pattern_thickness": 2,
+        "pattern_angle": 45,
+        "pattern_opacity_mode": "low",
+        "pattern_opacity_low": 7,
+        "pattern_opacity_normal": 80,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": true,
+        "per_move_desktop": 1,
+        "desktop_spacing": 24,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
         "slider_mobile": true,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
@@ -1030,6 +1136,7 @@
     "featured_collection_HGLRyN",
     "best_sellers",
     "shop_categories",
+    "tiktok_videos_WQcCyc",
     "faq",
     "newsletter_band"
   ]
