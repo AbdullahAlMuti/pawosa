@@ -695,7 +695,7 @@
         "arrows_color_scheme": "accent-2",
         "transparent_arrows": true,
         "dots_color_scheme": "background-1",
-        "desktop_full_page": false,
+        "desktop_full_page": true,
         "columns_desktop": 5,
         "slider_desktop": false,
         "per_move_desktop": 1,
