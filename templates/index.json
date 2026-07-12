@@ -490,6 +490,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "cat",
+            "custom_image": "shopify://shop_images/pawosa_cat_supplies_pawosa.webp",
             "custom_title": "Cat Supplies"
           }
         },
@@ -497,6 +498,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "pet-accessories",
+            "custom_image": "shopify://shop_images/pawosa-pet-accessories-seo.webp",
             "custom_title": "Pet Accessories"
           }
         }
