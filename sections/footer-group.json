@@ -25,18 +25,6 @@
             "width_mobile": "2"
           }
         },
-        "link_list_Y9QyLp": {
-          "type": "link_list",
-          "settings": {
-            "heading": "",
-            "block_headings_font_size": 1,
-            "menu": "footer",
-            "font_size": 14,
-            "menu_items_font": "body",
-            "width_desktop": 3,
-            "width_mobile": "1"
-          }
-        },
         "link_list_GDdmEh": {
           "type": "link_list",
           "settings": {
@@ -61,11 +49,18 @@
             "width_desktop": 3,
             "width_mobile": "2"
           }
+        },
+        "brand_info_text": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": "<p><strong>Our mission</strong> is to make everyday pet care simple, safe and joyful — for every dog, cat and the people who love them.</p><p><strong>Business Address</strong><br/>Pawosa<br/>254 Chapman Rd, Newark,<br/>Delaware 19702, United States</p><p><strong>Contact:</strong> <a href=\"mailto:contact@pawosa.com\">contact@pawosa.com</a><br/>Mon–Fri, 9:00 AM–6:00 PM (EST)</p>"
+          }
         }
       },
       "block_order": [
         "image_Q6dbc3",
-        "link_list_Y9QyLp",
+        "brand_info_text",
         "link_list_GDdmEh",
         "email_signup_4GNjVh"
       ],
