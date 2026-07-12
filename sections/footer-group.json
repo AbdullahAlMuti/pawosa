@@ -22,12 +22,6 @@
             "heading_size": "h1"
           }
         },
-        "paragraph_Hifc4C": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
-          }
-        },
         "email_form_3nNT6t": {
           "type": "email_form",
           "settings": {}
@@ -35,14 +29,13 @@
       },
       "block_order": [
         "heading_tPdaWM",
-        "paragraph_Hifc4C",
         "email_form_3nNT6t"
       ],
       "name": "t:sections.newsletter.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "button_type": "solid",
+        "button_type": "arrow",
         "button_label": "Sign up",
         "button_style_secondary": false,
         "color_scheme": "inverse",
