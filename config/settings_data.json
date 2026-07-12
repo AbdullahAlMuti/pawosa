@@ -101,6 +101,7 @@
     "card_color_scheme": "background-1",
     "product_cards_badge_push_sides": true,
     "product_cards_custom_badges_list": "BEST DEAL, BEST SELLER, [percentage] OFF",
+    "product_card_title_limited_lines": "1",
     "card_border_thickness": 0,
     "card_border_opacity": 10,
     "card_corner_radius": 12,
