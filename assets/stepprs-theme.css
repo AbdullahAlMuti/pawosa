@@ -33,3 +33,11 @@
 .glowing {
   animation: glowing 1.5s infinite;
 }
+
+/* Link contrast (WCAG AA) — the theme renders links at rgba(link, .85),
+   which drops the accessible #C74A00 below 4.5:1 on white. Full opacity
+   keeps links AA-compliant. */
+:root,
+.color-background-1 {
+  --alpha-link: 1;
+}
