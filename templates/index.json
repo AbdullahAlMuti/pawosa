@@ -118,7 +118,7 @@
           "type": "text",
           "settings": {
             "visibility": "mobile-hidden",
-            "text": "<p>The LED nail clipper that makes grooming calm, precise and injury-free — for dogs and cats. 97% of pet parents say grooming became safer.</p>",
+            "text": "<p>The LED nail clipper that makes at-home grooming calm and precise — with a safety blade guard and built-in light, for dogs and cats.</p>",
             "alignment": "left",
             "mobile_alignment": "mobile-center",
             "text_size": 14,
@@ -195,10 +195,10 @@
           "type": "buttons",
           "settings": {
             "visibility": "always-display",
-            "button_label_1": "SHOP THE LED CLIPPER — 50% OFF",
+            "button_label_1": "SHOP THE LED CLIPPER",
             "button_link_1": "/products/pet-nail-clipper-with-led",
             "button_style_secondary_1": false,
-            "button_label_2": "SHOP ALL DEALS",
+            "button_label_2": "SHOP BEST SELLERS",
             "button_link_2": "/collections/frontpage",
             "button_style_secondary_2": true,
             "margin_top": 15
@@ -718,7 +718,7 @@
             "heading": "Is it safe for anxious or first-time pets?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes — the safety blade guard controls how much nail can enter the cutting zone, and the quiet, precise cut keeps stress low. 96% of pet parents noticed less stress during nail cutting.</p>",
+            "row_content": "<p>Yes — the safety blade guard controls how much nail can enter the cutting zone, and the quiet, precise cut keeps stress low. </p>",
             "page": ""
           },
           "blocks": {}
