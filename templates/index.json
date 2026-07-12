@@ -115,18 +115,6 @@
     "hero_banner": {
       "type": "image-banner",
       "blocks": {
-        "hero_caption": {
-          "type": "caption",
-          "settings": {
-            "visibility": "always-display",
-            "caption": "SAFE AT-HOME GROOMING",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium",
-            "margin_top": 15,
-            "margin_bottom": 15
-          },
-          "blocks": {}
-        },
         "hero_heading": {
           "type": "heading",
           "settings": {
@@ -174,7 +162,7 @@
             "title_highlight_2_handwritten-color": "#6d388b",
             "title_highlight_2_handwritten-stroke-width": 3,
             "title_highlight_2_handwritten-position": 60,
-            "text_animation": "none",
+            "text_animation": "highlight-fade-up",
             "split_type": "chars",
             "split_delay": 30,
             "split_duration": 600,
@@ -212,6 +200,18 @@
             "typing_hide_cursor_while_typing": false,
             "typing_start_on_visible": false,
             "typing_reverse_mode": false,
+            "margin_top": 15,
+            "margin_bottom": 15
+          },
+          "blocks": {}
+        },
+        "hero_caption": {
+          "type": "caption",
+          "settings": {
+            "visibility": "always-display",
+            "caption": "SAFE AT-HOME GROOMING",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium",
             "margin_top": 15,
             "margin_bottom": 15
           },
@@ -310,8 +310,8 @@
         }
       },
       "block_order": [
-        "hero_caption",
         "hero_heading",
+        "hero_caption",
         "hero_text",
         "hero_buttons"
       ],
