@@ -482,6 +482,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "dog-supplies",
+            "custom_image": "shopify://shop_images/ChatGPT_Image_Jul_13_2026_04_08_59_AM.webp",
             "custom_title": "Dog Supplies"
           }
         },
@@ -551,7 +552,7 @@
         "custom_gradient_background": "",
         "custom_colors_text": "#2e2a39",
         "pattern_bg": "curvy",
-        "pattern_color": "#FB5722",
+        "pattern_color": "#fb5722",
         "pattern_size": 20,
         "pattern_thickness": 2,
         "pattern_angle": 45,
@@ -567,7 +568,7 @@
         "cards_corner_radius": 10,
         "card_title_limited_lines": "unlimited",
         "card_title_position": "under",
-        "cards_title_overlay_color": "#FB5722",
+        "cards_title_overlay_color": "#fb5722",
         "cards_title_overlay_opacity": 40,
         "cards_title_over_color": "#ffffff",
         "cards_desktop_title_size": 20,
