@@ -913,7 +913,7 @@
         "transparent_arrows": true,
         "dots_color_scheme": "inverse",
         "desktop_full_page": false,
-        "columns_desktop": 3,
+        "columns_desktop": 5,
         "slider_desktop": true,
         "per_move_desktop": 1,
         "desktop_spacing": 24,
