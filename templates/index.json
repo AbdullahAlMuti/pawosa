@@ -573,7 +573,7 @@
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
         "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
+        "mobile_arrows_position": "sides",
         "padding_top": 8,
         "padding_bottom": 8
       }
