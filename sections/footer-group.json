@@ -11,6 +11,59 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "newsletter_VrfkhT": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_tPdaWM": {
+          "type": "heading",
+          "settings": {
+            "title": "Subscribe to our emails",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_Hifc4C": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email_form_3nNT6t": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_tPdaWM",
+        "paragraph_Hifc4C",
+        "email_form_3nNT6t"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "button_type": "solid",
+        "button_label": "Sign up",
+        "button_style_secondary": false,
+        "color_scheme": "inverse",
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "pattern_bg": "none",
+        "pattern_color": "#6D388B",
+        "pattern_size": 20,
+        "pattern_thickness": 2,
+        "pattern_angle": 45,
+        "pattern_opacity_mode": "low",
+        "pattern_opacity_low": 7,
+        "pattern_opacity_normal": 80,
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -37,15 +90,14 @@
             "width_mobile": "2"
           }
         },
-        "email_signup_4GNjVh": {
-          "type": "email_signup",
+        "link_list_4McrWf": {
+          "type": "link_list",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "Quick links",
             "block_headings_font_size": 1,
-            "subtext": "<p>Get Updates of Our Products</p>",
-            "button_type": "solid",
-            "button_label": "Subscribe",
-            "button_style_secondary": true,
+            "menu": "policy",
+            "font_size": 14,
+            "menu_items_font": "body",
             "width_desktop": 3,
             "width_mobile": "2"
           }
@@ -54,15 +106,18 @@
           "type": "text",
           "settings": {
             "heading": "",
-            "subtext": "<p><strong>Our mission</strong> is to make everyday pet care simple, safe and joyful — for every dog, cat and the people who love them.</p><p><strong>Business Address</strong><br/>Pawosa<br/>254 Chapman Rd, Newark,<br/>Delaware 19702, United States</p><p><strong>Contact:</strong> <a href=\"mailto:contact@pawosa.com\">contact@pawosa.com</a><br/>Mon–Fri, 9:00 AM–6:00 PM (EST)</p>"
+            "block_headings_font_size": 1,
+            "subtext": "<p><strong>Our mission</strong> is to make everyday pet care simple, safe and joyful — for every dog, cat and the people who love them.</p><p><strong>Business Address</strong><br/>Pawosa<br/>254 Chapman Rd, Newark,<br/>Delaware 19702, United States</p><p><strong>Contact:</strong> <a href=\"mailto:contact@pawosa.com\">contact@pawosa.com</a><br/>Mon–Fri, 9:00 AM–6:00 PM (EST)</p>",
+            "width_desktop": 3,
+            "width_mobile": "2"
           }
         }
       },
       "block_order": [
         "image_Q6dbc3",
-        "brand_info_text",
         "link_list_GDdmEh",
-        "email_signup_4GNjVh"
+        "link_list_4McrWf",
+        "brand_info_text"
       ],
       "settings": {
         "color_scheme": "inverse",
@@ -97,6 +152,7 @@
     }
   },
   "order": [
+    "newsletter_VrfkhT",
     "footer"
   ]
 }
