@@ -227,7 +227,7 @@
           "popup_seconds": 5,
           "popup_days": 30,
           "display_timer": true,
-          "timer_duration": 3,
+          "timer_duration": 1,
           "layout": "image_second",
           "color_scheme": "background-1",
           "heading_prefix": "Sign up and",
