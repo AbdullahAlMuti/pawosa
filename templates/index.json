@@ -606,8 +606,8 @@
         "mobile_adaptive_height": false,
         "mobile_dots_position": "under",
         "mobile_arrows_position": "under",
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "featured_collection_HGLRyN": {
@@ -712,7 +712,7 @@
         "mobile_dots_position": "under",
         "mobile_arrows_position": "sides",
         "padding_top": 24,
-        "padding_bottom": 8
+        "padding_bottom": 24
       }
     },
     "best_sellers": {
@@ -815,8 +815,8 @@
         "mobile_adaptive_height": true,
         "mobile_dots_position": "under",
         "mobile_arrows_position": "under",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "image_slider_NiBKgh": {
