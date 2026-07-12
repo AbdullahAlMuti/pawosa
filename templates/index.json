@@ -672,7 +672,7 @@
         "desktop_adaptive_height": false,
         "desktop_dots_position": "under",
         "desktop_arrows_position": "sides",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "slider_mobile": true,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": true,
