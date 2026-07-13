@@ -648,5 +648,25 @@
     {% if settings.display_store_languages %}
       {% render 'enabled-languages-modal' %}
     {% endif %}
+      <script>
+      // Click-to-play resilience: with preload="none" the browser has no metadata
+      // until load() is called; supply it on play-button click and fall back to
+      // direct playback if the theme handler doesn't start the video.
+      document.addEventListener('click', function (e) {
+        var btn = e.target && e.target.closest && e.target.closest('.internal-video__play');
+        if (!btn) return;
+        var iv = btn.closest('internal-video');
+        var v = iv && iv.querySelector('video');
+        if (!v) return;
+        if (v.readyState === 0) { try { v.load(); } catch (err) {} }
+        setTimeout(function () {
+          if (v.paused) {
+            var p = v.play();
+            if (p && p.catch) p.catch(function () {});
+            iv.classList.add('internal-video--playing');
+          }
+        }, 350);
+      });
+    </script>
   </body>
 </html>
