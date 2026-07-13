@@ -60,7 +60,7 @@
       >
         {% for source in video.sources %}
           <source
-            {% if block.settings.muted_autoplay %}data-{% endif -%}src="{{ source.url }}"
+            data-src="{{ source.url }}"
             type="{{ source.mime_type }}"
           >
         {% endfor %}
