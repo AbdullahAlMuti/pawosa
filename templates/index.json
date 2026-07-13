@@ -820,7 +820,7 @@
         "pattern_opacity_mode": "low",
         "pattern_opacity_low": 7,
         "pattern_opacity_normal": 80,
-        "video_muted_autoplay": true,
+        "video_muted_autoplay": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "rows_spacing": 4,

@@ -638,7 +638,7 @@
           "settings": {
             "video": "shopify://files/videos/shopify feed.mp4",
             "loop": false,
-            "muted_autoplay": true,
+            "muted_autoplay": false,
             "display_play_btn": true,
             "play_btn_position": "center",
             "btn_color_scheme": "accent-1",
@@ -661,7 +661,7 @@
           "settings": {
             "video": "shopify://files/videos/shopify feeds 2.mp4",
             "loop": true,
-            "muted_autoplay": true,
+            "muted_autoplay": false,
             "display_play_btn": true,
             "play_btn_position": "center",
             "btn_color_scheme": "accent-1",
@@ -1214,7 +1214,7 @@
         "pattern_opacity_mode": "low",
         "pattern_opacity_low": 7,
         "pattern_opacity_normal": 80,
-        "video_muted_autoplay": true,
+        "video_muted_autoplay": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "rows_spacing": 4,
