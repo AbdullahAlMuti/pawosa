@@ -47,7 +47,7 @@
       <video
         width="100%"
         height="auto"
-        preload="{% if block.settings.muted_autoplay %}metadata{% else %}none{% endif %}"
+        preload="metadata"
         poster="{{ thumbnail | image_url: width: 800 }}"
         {% if block.settings.loop %}
           loop
