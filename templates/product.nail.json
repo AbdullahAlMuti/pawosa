@@ -294,7 +294,7 @@
             "prices_layout": "price-first-vertical",
             "display_selected_indicator": true,
             "border_radius": 10,
-            "border_width": 4,
+            "border_width": 1,
             "colors": "theme",
             "color_scheme": "accent-1",
             "accent_color": "accent-1",
