@@ -1159,6 +1159,7 @@
         "collapsible_row_content_kdV9Lf",
         "collapsible_row_content_LBnmdE"
       ],
+      "disabled": true,
       "name": "Collapsible content",
       "settings": {
         "display_id": false,
@@ -1431,6 +1432,7 @@
         "heading_QCfXxC",
         "text_nrGdUH"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "display_id": false,
