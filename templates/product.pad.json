@@ -1434,6 +1434,22 @@
         "display_id": false,
         "include_margins": true
       }
+    },
+    "section_divider_bg7Cpj": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "inverse",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#FFFFFF",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -1443,6 +1459,7 @@
     "related-products",
     "image_with_text_QKTAF3",
     "rich_text_mrxbDK",
-    "177611254464581c0e"
+    "177611254464581c0e",
+    "section_divider_bg7Cpj"
   ]
 }
