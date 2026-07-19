@@ -253,7 +253,7 @@
       "scroll-to-top-btn": {
         "type": "scroll-to-top-btn",
         "settings": {
-          "enable_scroll_btn": true,
+          "enable_scroll_btn": false,
           "display_after": 400,
           "color_scheme": "accent-1",
           "position": "bottom-right",
