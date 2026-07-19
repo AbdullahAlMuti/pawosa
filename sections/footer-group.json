@@ -134,7 +134,7 @@
         "enable_language_selector": true,
         "payment_enable": true,
         "enabled_payment_types": "",
-        "show_policy": true,
+        "show_policy": false,
         "branding_text": "",
         "top_page_width": "normal",
         "bottom_page_width": "normal",
